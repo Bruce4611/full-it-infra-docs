@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   // ✅ 站点标题（浏览器标题 + 首页大标题来源）
   title: 'TRON IT基础架构和日常SOP',
-  tagline: 'TRON IT Infra Documentation',
+  tagline: 'TRON IT 基础设施规划与实施文档',
   favicon: 'img/favicon.ico',
 
   future: {
