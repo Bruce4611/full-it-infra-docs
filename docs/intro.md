@@ -1,17 +1,17 @@
-# IT Infrastructure Documentation
+# IT Infra Documentation
 
-Welcome to Bruce's IT Infra Documentation.
+Welcome to Bruce Zhang's IT Infra Documentation.
 
 ---
 
 ## Network Architecture
 
-Describe your topology here.
+Corporate LAN / Zero Trust / VPN
 
-## Security Baseline
+## Identity & Access
 
-Describe MFA / VPN / IAM strategy.
+Google Workspace / AWS IAM / MFA
 
-## Cloud Infrastructure
+## Cloud
 
-AWS / GCP / Hybrid Design.
+AWS Production Environment
